@@ -1,5 +1,5 @@
 # redash_render
-We have two path in this repository. One is docker compose to help lauch a redash system. And another hand is a docker render png image from redash's queries url.
+We have two sections in this repository. One is docker compose to help lauch a redash system. And another hand is a docker render png image from redash's queries url.
 
 Currently, redash has not supported an api to generate image/pdf file. Docker render will help us create an image from a redash url and push it to us slack channel on schedule.
 
