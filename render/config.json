@@ -1,0 +1,8 @@
+{
+    "slack_token": "CHANGE_ME",
+    "slack_channel_id": "CHANGE_ME",
+    "file_render": "render.js",
+    "redash_key": "CHANGE_ME",
+    "redash_domain_name": "http://CHANGE_ME",
+    "list_queries_uri" : [ "/queries/CHANGE_ME", "/queries/CHANGE_ME" ]
+}

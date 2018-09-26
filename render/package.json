@@ -1,0 +1,16 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "main": "report.js",
+  "author": "Hoa Le Quang <lqhoa1207@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^4.6.0",
+    "commander": "^2.18.0",
+    "slimerjs": "^0.10.3"
+  },
+  "scripts": {
+    "start": "node report.js -p config.json"
+  },
+  "description": ""
+}
